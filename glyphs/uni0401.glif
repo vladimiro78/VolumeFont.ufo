@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="afii10023" format="1">
+  <unicode hex="0401"/>
+  <advance width="700"/>
+  <outline>
+    <contour>
+      <component base="E"/>
+    </contour>
+    <contour>
+      <component base="dieresis"/>
+    </contour>
+  </outline>
+</glyph>
